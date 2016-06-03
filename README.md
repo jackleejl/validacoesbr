@@ -1,6 +1,6 @@
 # jackleejl/validacoesbr
 
-Implementa validações de CPF, CEP, números de telefone, entre outras informações pertinentes ao Brasil.
+Implementa validações de CPF, CEP, números de telefone residenciais/comerciais/celulares, entre outras informações pertinentes ao Brasil.
 
 ## Install
 
