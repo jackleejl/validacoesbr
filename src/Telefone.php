@@ -3,7 +3,7 @@
 namespace JackLee\ValidacoesBR;
 
 /**
- * Validador de telefone.
+ * Validador de telefone residencial/comercial/celular.
  *
  * @author Jack Lee
  */
@@ -11,7 +11,7 @@ class Telefone
 {
 
     /**
-     * Valida o dado telefone.
+     * Valida o dado telefone residencial/comercial/celular.
      * 
      * @param string $telefone
      * @return boolean
