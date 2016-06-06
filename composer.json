@@ -1,6 +1,6 @@
 {
     "name": "jackleejl/validacoesbr",
-    "description": "Implementa validações de CPF, CEP, números de telefone, entre outras informações pertinentes ao Brasil.",
+    "description": "Implementa validações de CPF, CEP, números de telefone residenciais/comerciais/celulares, entre outras informações pertinentes ao Brasil.",
     "keywords": ["validação"],
     "license": "MIT",
     "authors": [
