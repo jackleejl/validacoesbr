@@ -13,9 +13,13 @@ $ composer require jackleejl/validacoesbr
 ## Usage
 
 ``` php
-$cpfIsValid = Cpf::valida('238.176.620-09');
-$telefoneIsValid = Telefone::valida('(11) 986475122');
-$cepIsValid = Cep::valida('05621-000');
+$cpfValido = Cpf::valida('238.176.620-09');
+
+if ($cpfValido) {
+    echo 'CPF válido.';
+} else {
+    echo 'CPF inválido.';
+}
 ```
 
 ## Change log
